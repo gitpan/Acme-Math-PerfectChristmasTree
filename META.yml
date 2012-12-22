@@ -20,7 +20,7 @@ no_index:
 provides:
   Acme::Math::PerfectChristmasTree:
     file: lib/Acme/Math/PerfectChristmasTree.pm
-    version: 0.01
+    version: 0.02
 requires:
   Carp: 0
   parent: 0
@@ -28,4 +28,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/moznion/p5-Acme--Math--PerfectChristmasTree.git
-version: 0.01
+version: 0.02

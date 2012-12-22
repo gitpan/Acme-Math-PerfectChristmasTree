@@ -41,7 +41,7 @@
    "provides" : {
       "Acme::Math::PerfectChristmasTree" : {
          "file" : "lib/Acme/Math/PerfectChristmasTree.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -53,5 +53,5 @@
          "url" : "git://github.com/moznion/p5-Acme--Math--PerfectChristmasTree.git"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
